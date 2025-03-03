@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalith Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img src="https://res.cloudinary.com/dokcmgnwp/image/upload/v1741027696/1727195441560_daqg3p.jpg" alt="Lalith Ganesh" width="500" />
+  <img src="https://res.cloudinary.com/dokcmgnwp/image/upload/v1741027696/1727195441560_daqg3p.jpg" alt="Lalith Ganesh" width="800" />
 </p>
 
 - 🔭 I’m currently working on **MasterCode (Hackathon)**
