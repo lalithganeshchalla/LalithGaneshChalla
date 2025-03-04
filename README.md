@@ -2,7 +2,7 @@
 <p >🚀 A dedicated frontend developer with a strong focus on **ReactJS** and **Flutter**. I love crafting **beautiful, responsive, and high-performance applications** that enhance user experience. </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dokcmgnwp/image/upload/v1741027696/1727195441560_daqg3p.jpg" alt="Lalith Ganesh" width="800" />
+  <img src="https://github.com/lalithganeshchalla/LalithGaneshChalla/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png" alt="Lalith Ganesh" width="800" />
 </p>
 
 
