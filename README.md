@@ -46,7 +46,9 @@
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalithganeshchalla)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lalith_ganesh_ch)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalithganeshchalla)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:challalalithganesh@gmail.com)
+
 
 
 ## 📊 GitHub Stats
@@ -65,3 +67,8 @@
 ##
 
 ⭐ **Thank you for visiting! Let's build something amazing together.** 😊
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/your-gif-file.gif](https://github.com/lalithganeshchalla/LalithGaneshChalla/blob/main/Nature-themed%20sustainability%20outro%20-%20Made%20with%20Clipchamp.gif)" width="100%" alt="Animated GIF" />
+</p>
+
