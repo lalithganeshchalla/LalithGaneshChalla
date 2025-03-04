@@ -112,7 +112,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalithganeshchalla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center" width="50px">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalithganeshchalla&show_icons=true&locale=en"  alt="GitHub Stats" />
 </p>
 
@@ -127,7 +127,7 @@
   </a>
   
   <a href="https://github.com/lalithganeshchalla" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="80" height="40" style="margin-right: 10px;"/>
   </a>
 
   <a href="mailto:challalalithganesh@gmail.com" target="_blank" rel="noreferrer">
