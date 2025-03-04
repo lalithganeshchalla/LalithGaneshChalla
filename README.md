@@ -69,6 +69,6 @@
 ⭐ **Thank you for visiting! Let's build something amazing together.** 😊
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/your-gif-file.gif](https://github.com/lalithganeshchalla/LalithGaneshChalla/blob/main/Nature-themed%20sustainability%20outro%20-%20Made%20with%20Clipchamp.gif)" width="100%" alt="Animated GIF" />
+  <img src="https://github.com/lalithganeshchalla/LalithGaneshChalla/blob/main/Nature-themed%20sustainability%20outro%20-%20Made%20with%20Clipchamp.gif" width="100%" height="500px" alt="Animated GIF" />
 </p>
 
