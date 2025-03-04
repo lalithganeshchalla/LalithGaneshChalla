@@ -16,24 +16,44 @@
 
 ## 🛠️ My Tech Stack
 
-**Frontend & Mobile Development**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### 🚀 Frontend & Mobile Development  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 20px;" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 10px;" />
+</p>
 
-**Programming Languages**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+#### 💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=purple" style="border-radius: 10px;" />
+</p>
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### 🛠 Databases & Backend Tools  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="border-radius: 10px;" />
+</p>
+
+#### 🎨 Design Tools  
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 10px;" />
+</p>
+
+#### 🔄 Version Control  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 10px;" />
+</p>
 
 
-## 🚀 Projects & Contributions
+## 🚀 Projects
+- <p><b>Master Code</b> –A Master Code website is a platform for organizing, managing, and showcasing innovation-driven competitions where participants collaborate, develop projects, and compete.</p>
+- <p><b>Car Rental App</b> – Smooth UI with real-time car booking app</p>
+
+## ⌨️Check My Projects
 
 ### 📱 Mobile Apps  
 - [Water Reminder Health Track App](https://github.com/lalithganeshchalla/water_reminder_health_track_app)  
@@ -43,6 +63,23 @@
 - [ReactJS Projects](https://github.com/lalithganeshchalla/Lalith-sReactJs)  
 - [MasterCode (Hackathon)](https://github.com/lalithganeshchalla/PRO-team-)
 
+<h3>🚀 I am currently working on a project named Master Code</h3>
+<h1>💻 MasterCode</h1>
+
+<p>Hi, I'm Lalith, a React developer specializing in creating platforms for hackathon events. My work involves delivering comprehensive information, seamless registration processes, and valuable resources to participants. I help teams collaborate, innovate, and display their coding prowess. My platforms include event schedules, team formation tools, project submission portals, and detailed judging criteria.</p>
+<h3>🏗️ Features</h4>
+  <p>  ✔️ Project Submission Portal</p> 
+  <p>  ✔️ Team Collaboration Tools</p>
+  <p>  ✔️ Judging & Scoring System</p>
+  <p>  ✔️ Live Leaderboard & Progress Tracking</p>
+  <p>  ✔️ Event Schedule & Announcements</p>
+  <p>  ✔️ Intuitive UI/UX</p>
+<h3></h3>📚 Project Overview</h3>
+<p></p>This project is a complete React JS-based UI an innovation-driven event where participants collaborate intensively to develop creative solutions, prototypes, or projects within a limited timeframe.</p>
+
+- <b>Framework:</b> React JS
+- <b>Language:</b> Java Script,CSS,HTML
+- <b>Backend:</b> Node Js
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalithganeshchalla)
