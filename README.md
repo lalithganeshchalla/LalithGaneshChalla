@@ -74,7 +74,7 @@
   <p>  ✔️ Live Leaderboard & Progress Tracking</p>
   <p>  ✔️ Event Schedule & Announcements</p>
   <p>  ✔️ Intuitive UI/UX</p>
-<h3></h3>📚 Project Overview</h3>
+<h3>📚 Project Overview</h3>
 <p></p>This project is a complete React JS-based UI an innovation-driven event where participants collaborate intensively to develop creative solutions, prototypes, or projects within a limited timeframe.</p>
 
 - <b>Framework:</b> React JS
