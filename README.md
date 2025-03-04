@@ -13,6 +13,33 @@
 
 - 📫 How to reach me **challalalithganesh@gmail.com**
 
+
+## 🛠️ Tech Toolkit
+
+### Languages & Frameworks
+- Flutter (Dart)
+- ReactJs
+- C# (.NET)
+- C
+- Java
+
+### Database & Tools
+- MySQL
+- Firebase
+- Git & GitHub
+
+## 🎯 Projects
+- 📱 Mobile Apps in Flutter
+- 🤖 AI/ML Projects
+- 💻 Web Apps in ReactJs
+
+### Checkout My Projects 
+- (https://github.com/lalithganeshchalla/water_reminder_health_track_app)                                                          
+- (https://github.com/lalithganeshchalla/PRO-team-)                                             
+- (https://github.com/lalithganeshchalla/Lalith-sReactJs)                                           
+- (https://github.com/lalithganeshchalla/Lalith_Flutter_Projects)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lalithganeshchalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalithganeshchalla" height="30" width="40" /></a>
@@ -27,3 +54,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithganeshchalla&show_icons=true&locale=en" alt="lalithganeshchalla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithganeshchalla&" alt="lalithganeshchalla" /></p>
+
+
+## Thank You for Visiting My Profile! 😊
+
+⭐️ From [Lalith Ganesh Challa]
